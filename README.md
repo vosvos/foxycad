@@ -6,8 +6,12 @@ Not all OCAD file format features were implemented.
 
 I still like the idea of open text file format for map data (example:. dump.fcad) and separate style format (example:. dump.css).
 
+![alt tag](https://pbs.twimg.com/media/CQDv1dtWUAAzJht.png)
 
 Running application: python run.py
+
 Supported file formats: OCAD (8,9,10), SHP.
+
 Required third party libraries: GTK, Cairo, rtree
+
 License: MIT
