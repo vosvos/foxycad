@@ -1,8 +1,8 @@
-Map viewer/editor. Initial idea was to make an alternative for OCAD (Comercial cartography software).
+Experimental map viewer/editor. Initial idea was to make an alternative for OCAD (Comercial cartography software).
 As now good alternative already exists (https://openorienteering.github.io/) - this project became abandoned.
 
 It still could be useful for someone who would like to work with OCAD files from Python. 
-Not all OCAD file format features were implemented. 
+Not all OCAD file format features were implemented (like symbol patterns). 
 
 I still like the idea of open text file format for map data (example:. dump.fcad) and separate style format (example:. dump.css).
 
